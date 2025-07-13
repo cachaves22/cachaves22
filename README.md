@@ -4,11 +4,11 @@ Rails developer with a background in business and a passion for building real-wo
 
 🚀 Projects
 
-<a href="https://www.braveco.org/">BraveCo – Helped build a mentorship platform for 7,000+ global users with live events, group calls, and video content.
+<a href="https://www.braveco.org/">BraveCo </a> – Helped build a mentorship platform for 7,000+ global users with live events, group calls, and video content.
 
-ShastaBiz – Co-created a local business and events directory for Shasta County, including a Hotwire Native mobile app.
+<a href="https://www.shastabiz.com/">ShastaBiz </a>– Co-created a local business and events directory for Shasta County, including a Hotwire Native mobile app.
 
-UnlokLabs – Co-founded a consulting firm delivering full-stack solutions to startups and nonprofits.
+<a href="https://www.unloklabs.com/">UnlokLabs </a>– Co-founded a consulting firm delivering full-stack solutions to startups and nonprofits.
 
 🛠️ Tech Stack
 
@@ -16,9 +16,9 @@ Ruby on Rails · Hotwire · Turbo Native · Stimulus · JavaScript · HTML/CSS �
 
 📫 Connect with Me
 
-LinkedIn
+<a href="https://www.linkedin.com/in/camilacsouza/">LinkedIn
 
-Email: cachaves22@gmail.com
+Email: camila@unloklabs.com
 
 These badges show my progress in the Learn Enough curriculum:
 
