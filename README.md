@@ -12,7 +12,7 @@ Rails developer with a background in business and a passion for building real-wo
 
 🛠️ Tech Stack
 
-Ruby on Rails · Hotwire · Turbo Native · Stimulus · JavaScript · HTML/CSS · PostgreSQL · Git · Heroku
+Ruby on Rails · Hotwire · Turbo Native · Stimulus · JavaScript · HTML/CSS · PostgreSQL
 
 📫 Connect with Me
 
