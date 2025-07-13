@@ -1,12 +1,11 @@
 👋 Hi, I'm Camila Souza
+
 Rails developer with a background in business and a passion for building real-world applications that serve communities and clients. I focus on full-stack development using Ruby on Rails, Hotwire (Turbo + Stimulus), and Turbo Native.
 
 🚀 Projects
 
 BraveCo – Helped build a mentorship platform for 7,000+ global users with live events, group calls, and video content.
-
 ShastaBiz – Co-created a local business and events directory for Shasta County, including a Hotwire Native mobile app.
-
 UnlokLabs – Co-founded a consulting firm delivering full-stack solutions to startups and nonprofits.
 
 🛠️ Tech Stack
